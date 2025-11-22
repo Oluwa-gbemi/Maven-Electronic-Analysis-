@@ -12,13 +12,13 @@ The goal was to create an interactive Power BI dashboard to analyze sales, produ
 ### Page 1 – Executive Overview
 ![Executive Overview](https://github.com/Oluwa-gbemi/Maven-Electronic-Analysis-/blob/f01e33797ad4fc30d5ce3523b51af7d975b8e87e/IMG_5549.png)
 ### Page 2 – Customer Analysis
-![Customer Analysis](images/dashboard_page2.png)
+![Customer Analysis](https://github.com/Oluwa-gbemi/Maven-Electronic-Analysis-/blob/085fc67847669ccfaa3666bd5c9fa669b0dba515/IMG_5550.png)
 
 ### Page 3 – Store Analysis
-![Store Analysis](images/dashboard_page3.png)
+![Store Analysis](https://github.com/Oluwa-gbemi/Maven-Electronic-Analysis-/blob/085fc67847669ccfaa3666bd5c9fa669b0dba515/Store%20analysis.png)
 
 ### Page 4 - Product Analysis
-![Product Analysis](images/dashboard_page4.png)
+![Product Analysis](https://github.com/Oluwa-gbemi/Maven-Electronic-Analysis-/blob/085fc67847669ccfaa3666bd5c9fa669b0dba515/IMG_5552.png)
 
 ---
 
